@@ -1,12 +1,11 @@
 ---
+
 layout: post
-title: Numpy|Pandas|Matpplotlib使用笔记
-date: 2020-4-13 13:01:42 +0800
+title: Numpy|Pandas|Matplotlib学习笔记
+date:   2020-07-07 15:28:39 +0800
 categories: jekyll update
 tags:
-    - 机器学习
-	- 数据可视化
-	- 数据处理
+    - 数据处理
 ---
 
 > 在基于python的机器学习、金融数据分析或是其他需要处理大量数据的技术方法中，一般都需要先对数据进行处理、清洗或者可视化等操作。
